@@ -1,1 +1,2 @@
 # Predict-the-number-of-passengers-using-time-series-forecasting
+In this compelling case study, we dive into the realm of time series forecasting, with the goal of predicting the number of passengers. Harnessing the power of two widely-used algorithms, ARMA (AutoRegressive Moving Average) and SARIMAX (Seasonal AutoRegressive Integrated Moving Average with Exogenous Regressors), I demonstrate the ability to accurately forecast future passenger trends.
